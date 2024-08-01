@@ -2,6 +2,8 @@ Prototype for Arena Shmup mobile concept using kivy/python
 
 Testing performance of kivy with somewhat complex game concepts.
 
+Added some free graphics found on itch.io for testing purposes. Art assets not final.
+
 Version 0.0.1
 - Battle scene that handles base combat
 - Player ship with WASD movement controls
